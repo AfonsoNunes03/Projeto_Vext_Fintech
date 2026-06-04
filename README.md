@@ -340,6 +340,7 @@ O desenvolvimento do Vext contribuiu para consolidar conhecimentos em IA aplicad
 * **Luís Figueira**
 
 Unidade Curricular: **FinTech**
+
 Professor: **Francisco Pires**
 
 ---
