@@ -373,7 +373,7 @@ Possíveis melhorias futuras incluem:
 
 ---
 
-## Autor Principal no GitHub
+## Alunos 
 
 **Afonso Nunes**
 Licenciado em Ciência de Dados para a Gestão
