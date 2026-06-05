@@ -380,3 +380,8 @@ Licenciado em Ciência de Dados para a Gestão
 Interessado em Inteligência Artificial, Ciência de Dados, FinTech, Agentic AI e desenvolvimento de produtos digitais com IA.
 
 GitHub: [AfonsoNunes03](https://github.com/AfonsoNunes03)
+
+**Luís Figueira**
+Finalista da Licenciatura em Ciência de Dados para a Gestão. Interessado em Inteligência Artificial, Ciência de Dados, FinTech, sistemas inteligentes e desenvolvimento de produtos digitais inovadores com recurso a IA, com especial interesse na aplicação destas tecnologias ao apoio à decisão e à análise financeira.
+
+GitHub: [LuiscnFigueira](https://github.com/LuiscnFigueira)
